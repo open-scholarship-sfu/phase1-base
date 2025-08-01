@@ -17,3 +17,5 @@ One of the primary tasks of the committee member will be to recruit a small team
 
 1. Reporting  
 The committee and the Open Sciece Community Manager will meet once a month as a group and individually as needed to ensure that the community projects are running smoothly. The frequency of the meetings will be revised as a group on the second meeting.
+
+<!--->adding a comment<--->
