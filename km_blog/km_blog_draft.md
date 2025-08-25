@@ -14,11 +14,11 @@ One thing that could mitigate this problem is to share these resources and the
 results of the research cycles. This way, we wouldn't need to invest more to
 re-do something that was already done, and we could more easily build on top of
 other people's knowledge to create an interconnected and global network of human
-knowledge. This resource-sharing strategy also enhances inclusion by promoting
-knowledge exchanges between equity-seeking, underrepresented or excluded groups,
-and by "reducing inequalities in access to scientific development,
-infrastructures and capabilities among different countries and regions" ([UNESCO
-Recommendation on Open Science, 2021](https://doi.org/10.54677/MNMH8546)). 
+knowledge. Just like knowledge mobilization, this resource-sharing strategy also 
+enhances inclusion by promoting knowledge exchanges between equity-seeking, 
+underrepresented or excluded groups, and by "reducing inequalities in access to 
+scientific development, infrastructures and capabilities among different countries 
+and regions" ([UNESCO Recommendation on Open Science, 2021](https://doi.org/10.54677/MNMH8546)). 
 
 The Open Scholarship practices help scholars to reduce the waste of their
 research endeavours. It includes concepts such as open access, open education,
@@ -29,7 +29,7 @@ other people could (or could not) re-use that product. People often think that
 "open" means "free", but that's not always true. For example, you might need to
 buy open source hardware, but the fact that it is "open" means that if you find
 a bug or have a suggestion for improvement, you can make a contribution directly
-to the project. Or you can start your own prototype for your own hardware based
+to the project. Or you can start your own prototype of your own hardware based
 on the one you've bought! 
 
 Another example is "open data". When someone collect data for a specific
@@ -52,17 +52,19 @@ University is leading a revolution to make it possible for every member of the
 SFU community to implement open practices to their academic routines. Our role
 will be to connect all the open scholarship initiatives already in place at SFU
 (such as the open access and open data hubs at the library, the public knowledge
-project at publishing, and the open educational resources office) and promote
-community-led events and programs to support students, faculty and staff to
-design their scholarly products under the "open lens".  
+project at publishing, and the open educational resources office), grassroots 
+movements and the knowledge mobilization hub to promote community-led events and 
+programs to support students, faculty and staff to design their scholarly products
+under the "open lens".   
 
 There will be many opportunities to contribute and collaborate to this movement!
 We will need community leaders to help us organize events and workshops, people
 to help us spread the word and to mentor other community members. If you want to
-keep an eye on what we're doing, sign up to our newsletter here <link> (we do
-have a newsletter, right?) 
+keep an eye on what we're doing, sign up to our newsletter here <link>.
 
-If our dreams are to come true, in 10 years the whole SFU community will think
+Just like the KM Hub, we want to do more with what we know 
+"by intentionally co-creating, disseminating, and implementing research". If our 
+dreams are to come true, in 10 years the whole SFU community will think
 of open scholarship as the way that they know how to do things. It will not be a
 matter of resources or infrastructure – we will all be working together to share
-what we have the privilege to produce to the benefit of all. 
+what we have the privilege to produce for the benefit of all. 
