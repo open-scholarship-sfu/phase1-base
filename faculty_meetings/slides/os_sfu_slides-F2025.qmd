@@ -1,0 +1,21 @@
+---
+title: "Open Scholarship at SFU"
+brand: _brand.yml
+author:
+  name: Gracielle Higino, PhD (she/her)
+  affiliation: 
+    name: Open Science Community Manager, INN    
+---
+
+::: {.notes}
+Outline:
+
+1. The gap filled by open scholarship - personal stories linked to global problems
+2. The grassroots movement - what does it mean to be "open" in different contexts
+3. The umbrella and garden ideas for open scholarship
+4. What is our vision for the next 5 years at SFU
+5. How do we think we can potentialize the impact of SFU's community through the open principles
+6. How to get involved
+:::
+
+# A girl just wanted to read a paper
