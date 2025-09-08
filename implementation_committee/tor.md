@@ -67,6 +67,19 @@
     Individual meetings with the Open Scholarship representatives will
     also be scheduled as needed.
 
+i) Roadmap  
+The intended schedule of meetings with the implementation committee and the tentative agendas are as follows:  
+
+    A.  1st meeting: October 2025  
+*Agenda*: Set SMART goals for the implementation of the Open Scholarship Principles and decide on budget allocation for the first year.  
+
+    A.  2nd meeting: February 2026  
+*Agenda*: Review the goals for the implementation of the Open Scholarship Principles and report advances on the financial sustainability of the initiative.  
+
+
+    A.  3rd meeting: July 2026  
+*Agenda*: Overall balance of the year and setting goals for the next year.  
+
 5.  Reporting\
     Community leaders will report to the Open Scholarship Framework
     representatives about the progress towards the goals set by the
