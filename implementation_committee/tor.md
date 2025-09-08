@@ -29,27 +29,23 @@
     skills.
 
 3.  Committee Objectives\
-    The goal of the implementation committee is to advise on and carry
-    out the implementation of the Open Scholarship Principles in their
-    relevant areas. They will leverage their knowledge about their own
-    communities and disciplines to tailor the principles and support to
-    their community's needs. Committee members contributions will
-    include:
+    The goal of the implementation committee is to advise on and carry out the
+    implementation of the Open Scholarship Principles in their relevant areas.
+    They will leverage their knowledge about their own communities and
+    disciplines to tailor the Open Scholarship principles and advise on
+    strategies to support their community's needs. Committee members
+    contributions will include:
 
-    -   To lead, with the support of the Open Science Community Manager,
-        the changes in the infrastructure to allow the open scholarship
-        culture to emerge, including fundraising, community strategies
-        and policy making.
+    -   To advise about the changes in the infrastructure needed to allow the
+        open scholarship culture to emerge, including fundraising, community
+        strategies and policy making.
+
+    -   To advise on budget allocation.
 
     -   To co-design the implementation goals and roadmap based on their
         Faculty's needs and opportunities.
 
-    -   Planning of infrastructure enhancements and new developments.
-
-    -   To develop the process for evaluating uptake of open scholarship
-        practices at SFU.
-
-    -   To articulate sub-committees of culture change (composed of
+    -   To help articulating sub-committees of culture change (composed of
         students, faculty and staff), which will promote events,
         workshops, community projects in general, and dialogues for
         policy changes within their Faculty.
@@ -57,27 +53,26 @@
     -   To establish continuous engagement with external partners, other
         institutions, funding agencies, and stakeholders.
 
-    -   To establish long-term model for financial sustainability of
-        open science and open scholarship support.
+    -   To advocate for and be an early adopter of the Open Scholarship
+        principles.
 
-        <!---> This description of what committee members should prioritize strategic activities like goal-setting, seeking grant funding, changing policies, evaluation processes, etc. Certainly, they can help the initial launch of events but I see these as activities that are then delegated to sub committees of champions and we use the implementation committee to continume doing more high level strategy and steering of the initiative. Can you review the draft implementation plan and make sure all the other kinds of activities in the draft are reflected in the TOR? <--->
 
 4.  Membership Commitment\
-    Members will are expected to have a commitment of one to three
+    Members are expected to have a commitment of one to three
     years, starting on September 2025. An initial onboarding process
     will inform them on the open scholarship landscape at SFU and
     globally, and set the initial goals for the whole committee. Group
-    meetings will be held online twice per term with the duration of 90
-    minutes, with asynchronous work and communication between them.
+    meetings will be held online once per term with the duration of 90
+    minutes, with eventual asynchronous work and communication between them.
     Individual meetings with the Open Scholarship representatives will
     also be scheduled as needed.
 
-    <!--->@graciellehigino I changed the champions program idea to a simple "working group/Scrum" strategy here. We can work together with the committee to design the Champions program and test that with the sub-committees next year.<--->
-
 5.  Reporting\
-    The committee will report to the Open Scholarship Framework
-    representatives every three months through a short webform, which
-    will then be discussed with the Open Scholarship Framework
-    initiative leaders.
-
-    <!---> I think this should be revised to how the Committee reports to the initiative leaders (e.g., INN exec, OVPRI) - probably quarterly via email updates from open scholarship reps on the committee (i.e., us), with ad hoc meetings as needed. @graciellehigino I thought a simple report using a webform would bring lower friction to the reporting task because we'll already have the meetings to catch-up and reporting. However, I'd like to know what we need to report to TOSI in terms of data, so we can design this part accordingly and make sure we get all the data we need for the final report three years from now.<--->
+    Community leaders will report to the Open Scholarship Framework
+    representatives about the progress towards the goals set by the
+    implementation committee members. The Open Scholarship Framework
+    representatives will report to the implementation committee during the
+    online meetings, updating members about community engagement, policy
+    implementations and goal settings. Committee members will then re-evaluate
+    the goals with the OS representatives, and a summary of each meeting will
+    then be reported to the Open Scholarship Framework initiative leaders. 
