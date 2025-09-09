@@ -15,7 +15,7 @@ research cycle  - datasets, protocols, reports, images, etc. - we
 wouldn't need to invest more to re-do something that was already done, and we
 could more easily build on top of other people's knowledge to create an
 interconnected and global network of human knowledge. Just like knowledge
-mobilization, this resource-sharing strategy also enhances inclusion by
+mobilization, Open Scholarship also enhances inclusion by
 promoting knowledge exchanges between equity-seeking, underrepresented or
 excluded groups, and by "reducing inequalities in access to scientific
 development, infrastructures and capabilities among different countries and
@@ -32,8 +32,8 @@ scientific literature. There are many scholarly products behind a paywall, which
 are not even remotelly accessible to a Brazilian student like I was. I
 understood quickly that accessibility to these papers would make a difference
 between professionals who could maybe afford to pay to go thorugh those paywalls
-and those who can't. I have decided then that I should get involved in what I
-learned later that was called the "open movement" and open scholarship
+and those who can't. I decided then that I should get involved in what I
+learned later was called the "open movement" and open scholarship
 practices, in the hope that students and professionals from the next generations
 would face less barriers to access research resources.
 
@@ -42,7 +42,7 @@ would face less barriers to access research resources.
 The Open Scholarship practices help scholars to optimize the impact of their
 research endeavours. It includes concepts such as open access, open education,
 and open data, each of them characterizing a specific aspect of sharing
-knowledge, but also flourishing as interdependent concepts, sometimes. Whenever
+knowledge, but also flourishing as interdependent concepts. Whenever
 you come across the term "open", it means that someone has thought about how
 other people could (or could not) re-use that product and has expressed that
 through an open license document with legal value. It also means that values
@@ -76,9 +76,9 @@ as the researchers are fully transparent about their processes.
 
 The open movement tries to empower people to overcome the limitations of
 resource sharing in knowledge and culture production and usage. With that vision in mind,
-the Institute for Neuroscience and Neurotechnology of the Simon Fraser
+the Institute for Neuroscience and Neurotechnology at the Simon Fraser
 University is leading a revolution to make it possible for every member of the
-SFU community to implement open practices to their academic routines. Our role
+SFU community to implement open practices in their academic routines. Our role
 will be to connect all the open scholarship initiatives already in place at SFU
 (such as the open access and open data hubs at the Library, the Public Knowledge
 Project at Publishing, and the Open Educational Resources office), grassroots
