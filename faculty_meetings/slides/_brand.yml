@@ -8,7 +8,7 @@ color:
   primary: dark-grey
 
 logo: 
-  medium: images/logo.png
+  medium: images/logo_light.png
 
 typography:
   fonts:

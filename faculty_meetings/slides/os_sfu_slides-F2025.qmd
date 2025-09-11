@@ -1,5 +1,6 @@
 ---
 title: "Open Scholarship at SFU"
+format: revealjs
 brand: _brand.yml
 author:
   name: Gracielle Higino, PhD (she/her)
@@ -7,15 +8,28 @@ author:
     name: Open Science Community Manager, INN    
 ---
 
-::: {.notes}
-Outline:
+# Who am I? What is this Open Scholarship Initiative?
 
-1. The gap filled by open scholarship - personal stories linked to global problems
-2. The grassroots movement - what does it mean to be "open" in different contexts
-3. The umbrella and garden ideas for open scholarship
-4. What is our vision for the next 5 years at SFU
-5. How do we think we can potentialize the impact of SFU's community through the open principles
-6. How to get involved
+# Down with the Ivory Tower
+
+> "[...] ~~science~~ *academia* and everyday life cannot and should not be separated."
+
+::: {style="text-align: right"}
+*Rosalind Franklin*
+::: 
+
+::: {.notes}
+- Nothing we do within a university is disconnected from the world outside of it. There are social, political and environmental contexts to everything we do.
+- We believe in an academic environment that is aware of its surroundings, and is open to dialogue with the different aspects of our society.
 :::
 
-# A girl just wanted to read a paper
+# The open movement ^[[Mozilla and Working Open](https://www.youtube.com/watch?v=quKdaqlR_9w)]
+
+1. Share decision making  
+
+2. Share content  
+
+3. Invite participation  
+
+
+# Open scholarship garden
