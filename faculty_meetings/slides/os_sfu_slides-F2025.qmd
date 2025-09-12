@@ -8,9 +8,9 @@ author:
     name: Open Science Community Manager, INN    
 ---
 
-# Who am I? What is this Open Scholarship Initiative?
+## Who am I? What is this Open Scholarship Initiative?
 
-# Down with the Ivory Tower
+## Down with the Ivory Tower
 
 > "[...] ~~science~~ *academia* and everyday life cannot and should not be separated."
 
@@ -23,7 +23,7 @@ author:
 - We believe in an academic environment that is aware of its surroundings, and is open to dialogue with the different aspects of our society.
 :::
 
-# The open movement ^[[Mozilla and Working Open](https://www.youtube.com/watch?v=quKdaqlR_9w)]
+## The open movement ^[[Mozilla and Working Open](https://www.youtube.com/watch?v=quKdaqlR_9w)]
 
 1. Share decision making  
 
@@ -32,4 +32,14 @@ author:
 3. Invite participation  
 
 
-# Open scholarship garden
+## The open movement in scholarship practices
+
+*Responsible researchers...*  
+
+- Strive for excellence and *take responsibility*  
+- *Respect* the law, research ethics, and professional standards  
+- *Support* a culture of *transparency*, *openness*, and honesty towards other researchers and the *public*  
+- *Maximise public benefit* and avoid resource waste  
+
+
+## Open scholarship garden
