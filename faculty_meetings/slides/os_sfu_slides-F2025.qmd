@@ -189,16 +189,19 @@ Consider EDIA principles in your scholarship!
 ##  
 ***How can you take care of our garden now? ***
 
+\newline
+
 ::: {style="font-size: 200%; text-align: center"}
-::: {layout="[[-1], [1], [-1]]"}
+::: {layout="[[1], [1], [-1]]"}
 Partner up with the [Knowledge Mobilization Hub](https://www.sfu.ca/research/researcher-resources/further-my-research/knowledge-mobilization-hub.html)!
 :::
 :::
 
 
 ::: {.callout-tip appearance="simple"}
-*The KM Hub provides knowledge mobilization services and support to the SFU community by intentionally co-creating, disseminating, and implementing research.* 
+*The KM Hub provides knowledge mobilization services and support to the SFU community to intentionally co-create, disseminate, and implement research.* 
 :::
+
 
 ::: {.notes}
 
