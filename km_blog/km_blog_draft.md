@@ -72,6 +72,6 @@ keep an eye on what we're doing, sign up to our newsletter [here](https://secure
 Just like the KM Hub, we want to do more with what we know "by intentionally
 co-creating, disseminating, and implementing research". If our dreams are to
 come true, in 10 years the whole SFU community will think of open scholarship as
-the only way that they know how to do things. It will not be a matter of resources or
+the default way to do things. It will not be a matter of resources or
 infrastructure – we will all be working together to share what we have the
 privilege to produce for the benefit of all. 
