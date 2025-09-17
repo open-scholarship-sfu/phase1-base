@@ -14,7 +14,7 @@
 
 2.  Committee Membership\
     The Committee will consist initially of six members from across SFU,
-    with the goal of expanding to 16 members by January 2026. The Committee will be chaired by the lead of the Open Scholarship Framework and will also include the Open Science Community Manager. The remaining of the 14 members will strive to include one
+    with the goal of expanding to 16 members by January 2026. The Committee will be chaired by the lead of the Open Scholarship Framework and will also include the Open Science Community Manager. The remaining 14 members will strive to include one
     member from each Faculty, and members from relevant
     stakeholder groups including, but not limited to, Library, Research
     Ethics Board, IT, and the Office of the Vice-President, Research and
@@ -64,4 +64,4 @@
     also be scheduled as needed.
 
 5.  Reporting\
-    The Committee chair and the Open Science Community Manager will create summary reports of each meeting to be shared with the rest of the Committee and the Open Scholarship Framework initiative leaders. Summary reports of initiative activities will also be shared with the Committee and initiative leaders at the end of each term.
+    Summary reports of each meeting will be created by the Committee chair and Open Science Community Manager and shared with the INN executive. Summary reports of initiative activities will also be shared with the INN executive at the end of each academic term.
