@@ -96,26 +96,43 @@ best to repair harm, based on the incident's impact on the individuals involved
 and the community as a whole. Depending on the severity of a violation, lower
 rungs on the ladder may be skipped.
 
-1. Warning a) Event: A violation involving inappropriate language or other
-behavior deemed unprofessional or unwelcome in the community. b) Consequence: A
-private, written warning from the Community Manager. c) Repair: Examples of
+1. Warning 
+
+a) Event: A violation involving inappropriate language or other
+behavior deemed unprofessional or unwelcome in the community. 
+
+b) Consequence: A
+private, written warning from the Community Manager. 
+
+c) Repair: Examples of
 repair include a private written apology, acknowledgement of responsibility, and
 seeking clarification on expectations.
 
-2. Temporary Suspension a) Event: A repeated incidence of a violation that
+2. Temporary Suspension 
+
+a) Event: A repeated incidence of a violation that
 previously resulted in a warning, or the first incidence of a more serious
-violation. b) Consequence: A private written warning with conditions for return
-from suspension. c) Repair: Examples of repair may include making an apology,
+violation. 
+
+b) Consequence: A private written warning with conditions for return
+from suspension. 
+
+c) Repair: Examples of repair may include making an apology,
 using the cooldown period to reflect on actions and impact, and being thoughtful
 about re-entering community spaces after the period is over.
 
-3. Permanent Ban a) Event: A pattern of repeated code of conduct violations that
+3. Permanent Ban 
+
+a) Event: A pattern of repeated code of conduct violations that
 other steps on the ladder have failed to resolve, or a violation so serious that
 the Community Manager determines there is no way to keep the community safe with
-this person as a member. b) Consequence: Access to all community spaces, tools,
+this person as a member.  
+
+b) Consequence: Access to all community spaces, tools,
 and communication channels is removed. In general, permanent bans should be
 rarely used, should have strong reasoning behind them, and should only be
-resorted to if working through other remedies has failed to change the behavior.
+resorted to if working through other remedies has failed to change the behavior. 
+
 c) Repair: There is no possible repair in cases of this severity.
 
 This enforcement ladder is intended as a guideline. It does not limit the
