@@ -1,0 +1,86 @@
+/* SFU Open Scholarship Initiative Playbook - Custom HTML Theme */
+/* Save this as styles/sfu-theme.css */
+
+body {
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #333;
+  line-height: 1.6;
+  background-color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header styling */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  color: #8A1D1D; /* SFU Red */
+  margin-top: 1.2em;
+}
+
+/* Horizontal rules and section dividers */
+hr {
+  border: 1px solid #8A1D1D;
+  margin: 2em 0;
+}
+
+/* Table styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+}
+
+th {
+  background-color: #8A1D1D;
+  color: #fff;
+  text-align: left;
+  padding: 8px;
+}
+
+td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+/* Links */
+a {
+  color: #8A1D1D;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* TOC */
+#TOC, .toc {
+  background-color: #f9f9f9;
+  border-left: 4px solid #8A1D1D;
+  padding: 1em;
+}
+
+/* Footer */
+footer {
+  border-top: 2px solid #8A1D1D;
+  text-align: center;
+  color: #666;
+  font-size: 0.9em;
+  margin-top: 2em;
+  padding: 1em 0;
+}
+
+/* Code blocks */
+pre, code {
+  background-color: #f7f7f7;
+  border-radius: 4px;
+  font-family: "Fira Code", monospace;
+  color: #222;
+}
+
+/* Quarto callouts */
+.callout {
+  border-left: 4px solid #8A1D1D;
+  background-color: #fdf8f8;
+  padding: 1em;
+  margin: 1.5em 0;
+}
