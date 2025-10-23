@@ -1,0 +1,230 @@
+---
+format:
+  html:
+    toc: true
+    toc-title: "Contents"
+    number-sections: true
+    theme: cosmo
+    df-print: paged
+    code-fold: true
+    anchor-sections: true
+    css: styles/sfu-theme.css
+
+  pdf:
+    toc: true
+    number-sections: true
+    mainfont: "Yrsa"
+    sansfont: "Yrsa"
+    monofont: "Menlo"
+    fontsize: 11pt
+    linestretch: 1.15
+    geometry:
+      - margin=1in
+    include-in-header: "assets/sfu-header.tex"
+    include-before-body: "assets/sfu-cover.tex"
+    include-after-body: "assets/sfu-footer.tex"
+    colorlinks: true
+    linkcolor: "sfuRed"
+    urlcolor: "sfuRed"
+lang: en
+keywords: ["Open Scholarship", "Open Science", "Community Playbook", "SFU", "Research Excellence"]
+---
+
+# Introduction & Overview
+
+## Purpose of the Playbook
+Describe the overarching purpose of this document and its role in guiding the Open Scholarship Initiative (OSI) at Simon Fraser University.
+
+## Scope
+Define what this playbook covers — the community, initiative boundaries, and key stakeholder groups.
+
+## Relationship to SFU’s Open Scholarship Framework
+Refer to institutional frameworks and strategies outlined at  
+[SFU Open Science & Scholarship Framework](https://www.sfu.ca/research/performance-excellence/open-science.html).
+
+## How to Use this Playbook
+Outline the intended audience (faculty, staff, students, collaborators) and guidance on navigation and updates.
+
+## Versioning and Maintenance
+Describe update frequency, contributors, and where the playbook is hosted (e.g., GitHub, SFU wiki).
+
+---
+
+# Project Vision
+
+## Vision Statement
+> **Goal:** Articulate what the SFU OSI aims to achieve in advancing open, equitable, and reproducible research practices.
+
+## Mission and Guiding Principles
+List principles such as transparency, collaboration, inclusivity, and knowledge sharing.
+
+## Strategic Alignment
+Explain alignment with SFU’s Strategic Research Plan and performance excellence objectives.
+
+## Core Values
+Equity • Transparency • Interdisciplinarity • Community Impact • Sustainability
+
+---
+
+# Problem Statements
+
+## Context
+Summarize the current landscape of open scholarship at SFU.
+
+## Key Challenges and Barriers
+- Awareness and training gaps  
+- Infrastructure and data management challenges  
+- Recognition and incentives for open practices  
+
+## Why These Problems Matter
+Explain implications for researchers, the institution, and the broader scholarly ecosystem.
+
+## Target Populations
+Identify core participant groups (faculty, students, librarians, staff, external collaborators).
+
+---
+
+# Specific Aims
+
+Use **SMART** (Specific, Measurable, Achievable, Relevant, Time-bound) objectives.
+
+# History of Open Scholarship at SFU
+
+Historical context where the SFU OSI fits in.
+
+
+
+# Strategy, Programming, Policies & Processes
+## Vision & Mission  
+- **Vision:** Embed open scholarship practices across SFU, aligning with institutional frameworks for open science and open scholarship.  
+- **Mission:** Build a vibrant community of practice supporting researchers with tools, training, incentives, and culture change.  
+- **Principles:** Transparency, accessibility, reuse, and equity — consistent with [SFU’s Open Science principles](https://www.sfu.ca/research/performance-excellence/open-science.html).  
+
+## Strategic Goals  
+- Increase adoption of open access publishing, open data, open educational resources, and open methods.  
+- Build capacity through training, mentorship, and community collaboration.  
+- Integrate open scholarship throughout the research lifecycle.  
+- Evaluate and communicate impact through open reporting mechanisms.  
+
+## Programming  
+- **Training:** Workshops on open data, reproducibility, and licensing.  
+- **Community of Practice:** Monthly meetings and special interest groups.  
+- **Champion Program:** Faculty and student advocates for open scholarship.  
+- **Resources:** Online repository of toolkits and templates.  
+- **Consultations:** Support for researchers implementing open practices.  
+- **Events:** Hackathons, seminars, “Open Scholarship Week,” annual showcase.  
+
+## Policies & Processes  
+- Reference SFU’s Open Scholarship and Open Access Policies.  
+- Define clear onboarding/offboarding for members and leaders.  
+- Workflow for proposal submission, review, and approval of new initiatives.  
+- Conflict resolution and escalation linked to the Code of Conduct.  
+- Budget allocation and funding process transparency.  
+
+---
+
+# Outputs, Metrics & Evaluation
+## Key Outputs  
+- List main outputs, activities and resources to be created or curated 
+
+## Metrics & KPIs  
+
+- List main metrics of success
+
+## Evaluation  
+- Mixed-method approach: metrics + qualitative data.  
+- Publish annual dashboard and impact report.  
+- Continuous improvement loop informed by feedback.  
+
+---
+
+# Governance Model
+## Structure  
+- **Implementation Committee:** Strategic guidance and alignment. 
+- **Community Committees:**  
+  - Code of Conduct Committee  
+  - Programming & Implementation Committee  
+  - Communications & Outreach Committee  
+  - Metrics & Evaluation Committee  
+- **Working Groups:** Thematic or ad-hoc groups for specific initiatives.  
+
+## Roles & Responsibilities  
+- Initiative Director, Community Manager, Training Lead, Data Lead, Communications Officer, Faculty/Staff Champions, Student Ambassadors.  
+
+## Collaborators & Members  
+- Internal (faculty, staff, students, librarians).  
+- External (partner institutions, funders, networks).  
+
+## Communication Channels  
+- Discord (?), mailing list, newsletter, public website, webinars.  
+
+---
+
+# Collaborative Tools, Meetings & Events
+## Tools  
+- Tools for communication  
+- Tools for project management  
+- GitHub for documentation  
+- Zoom for online events  
+- Quarto pub for dashboards  
+- SFU’s repository for open data and publications  
+
+## Meetings  
+
+Examples:
+- Monthly community call  
+- Quarterly all-hands review  
+- Biweekly implementation committee  
+- Semi-annual steering meeting  
+- Ad-hoc working group sessions  
+
+## Events  
+
+Examples:
+- Annual Open Scholarship Showcase  
+- Monthly themed seminars  
+- Hackathons and bootcamps  
+- Representation at external conferences  
+
+---
+
+# Key Deadlines, Programming, Reporting & Conferences
+## Regular Programming  
+
+Examples:
+- Monthly seminars, quarterly drop-ins, annual Open Scholarship Week, onboarding each term  
+
+## Key Deadlines & Reporting  
+
+Examples:
+- **March 31:** Q1 Report  
+- **June 30:** Mid-Year Review  
+- **September 30:** Planning Cycle  
+- **December 31:** Annual Report  
+- **August 31:** Publish Training Calendar  
+- **April 30:** Call for Champions  
+
+## Conferences & External Engagement  
+
+
+
+---
+
+# References & Supporting Documents
+- **Code of Conduct** – community expectations and procedures  
+- **Onboarding Guide** – for new community members  
+- **Offboarding Checklist** – exit process  
+- **SFU Open Scholarship Principles:** [link](https://www.sfu.ca/research/performance-excellence/open-science.html)  
+- **Policy Documents:** Open Access, Data Management, OER Policies  
+- **Templates:** training evaluation forms, workshop guides, event planning checklist  
+
+---
+
+# Appendices
+- **A. Glossary of Terms**  
+- **B. Committee Charters**  
+- **C. Roles & Responsibilities Matrix**  
+- **D. Annual Calendar Template**  
+- **E. Contact Directory**  
+
+
