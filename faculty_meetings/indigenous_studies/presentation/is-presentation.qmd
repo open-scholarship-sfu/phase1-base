@@ -1,0 +1,182 @@
+---
+title: "Open Scholarship at SFU"
+format:
+  revealjs:
+    theme: simple
+    css:
+      - sfu-theme.scss
+    slide-number: true
+    transition: fade
+fontfamily: "Crimson Pro"
+author:
+  name: Gracielle Higino, PhD (she/her)
+  affiliation: 
+    name: Open Science Community Manager, INN    
+---
+
+# Who am I? What is the Open Scholarship Initiative? {.slide-title-bg}
+
+::: notes
+-   I'm the open science community manager for the open scholarship framework initiative
+-   The framework will represent SFU’s commitment to OS and define the pathways towards SFU becoming an “Open Scholarship University.”
+-   These principles are guidelines by which we want to practice scholarship as a community.
+:::
+
+## Down with the Ivory Tower
+
+::: {layout="[[-1], [1], [-1]]"}
+> "\[...\] ~~science~~ *academia* and everyday life cannot and should not be separated."
+:::
+
+::: {style="text-align: right"}
+*Rosalind Franklin*
+:::
+
+::: notes
+-   Nothing we do within a university is disconnected from the world outside of it. There are social, political and environmental contexts to everything we do.
+-   We believe in an academic environment that is aware of its surroundings, and is open to dialogue with the different aspects of our society.
+:::
+
+## The open movement
+
+::: {layout="[[-1], [1], [-1]]"}
+1.  Share decision making
+
+2.  Share content
+
+3.  Invite participation
+:::
+
+:::: footnote
+::: {style="font-size: 50%;"}
+[Mozilla and Working Open](https://www.youtube.com/watch?v=quKdaqlR_9w)
+:::
+::::
+
+## The open movement in scholarship practices
+
+*Responsible researchers...*
+
+
+-   Strive for excellence and *take responsibility*\
+-   *Respect* the law, research ethics, and professional standards\
+-   *Support* a culture of *transparency*, *openness*, and honesty towards other researchers and the *public*\
+-   *Maximise public benefit* and avoid resource waste
+
+:::: footnote
+::: {style="font-size: 50%;"}
+[Open Seeds training, 2025](https://docs.google.com/presentation/d/1eKRgozsGmJvjPELyP4KMgrgHchp7o58YowC5RkgLNd4/edit?slide=id.g209cf4a938f_0_0#slide=id.g209cf4a938f_0_0)
+:::
+::::
+
+## The open movement in scholarship practices
+
+![](images/open_responsibe_science.png){fig-align="center"}
+
+::: {style="text-align: center"}
+***As open as possible, as closed as necessary.***
+:::
+
+::: notes
+Open scholarship is part of a responsible research practice, and it can be part of unresponsible academic conduct too. We don't believe in automatic openness - instead, we trust our community to make educated decisions about how much should be disclosed, and when. Some things shouldn’t be automatically shared, e.g. conservation data, medical records, indigenous data
+:::
+
+## Open scholarship and funding agencies
+
+::: {layout="[[-1], [1], [-1]]"}
+[**↑**]{style="color:darkgreen"} Canadian federal funding agencies [**increasing**]{style="color:darkgreen"} focus on OA for publication and datasets  
+[**↓**]{style="color:darkred"} [**Decreasing**]{style="color:darkred"} global support for open access policies
+:::
+
+---
+
+## Open Scholarship at SFU
+
+
+---
+## Open Scholarship at INDG
+
+
+---
+
+## How can we support each other?
+
+![](images/maintenance-open-source.jpg){fig-align="center"}
+
+:::: footnote
+::: {style="font-size: 50%;"}
+The Turing Way Community, & Scriberia. (2023). Illustrations from The Turing Way: Shared under CC-BY 4.0 for reuse. Zenodo. <https://doi.org/10.5281/zenodo.7587336>
+:::
+::::
+
+## 
+
+***How can we support each other?***
+
+:::: {style="font-size: 200%; text-align: center"}
+::: {layout="[[-1], [1], [-1]]"}
+[APC discounts through the Library](https://www.lib.sfu.ca/help/publish/scholarly-publishing/open-access/publisher-discounts)
+:::
+::::
+
+::: {.callout-tip appearance="simple"}
+*Use an affiliated university email address when submitting your paper.*
+:::
+
+::: notes
+SFU Library holds institutional memberships and participates in publishing agreements with many academic publishers, some directly and as part of library consortia. These memberships provide waivers on article processing charges (APCs) or discounts for articles published by SFU authors.
+:::
+
+## 
+
+***How can we support each other?***
+
+:::: {style="font-size: 200%; text-align: center"}
+::: {layout="[[-1], [1], [-1]]"}
+Training and technical support
+:::
+::::
+
+::: {.callout-tip appearance="simple"}
+*There are many training opportunities at SFU, and the Library has specialized people ready to take on some of your workload with data sharing, data management, open access publishing, and more.*
+:::
+
+
+
+## 
+
+***How can we support each other?***
+
+:::: {style="font-size: 190%; text-align: center"}
+::: {layout="[[1], [1], [-1]]"}
+Let us connect you with [Knowledge Mobilization](https://www.sfu.ca/research/knowledge-mobilization.html), the [Equity Office](https://www.sfu.ca/edi.html), [Knowledge Link](https://www.sfu.ca/research/knowledge-link.html) and the [Community-Engaged Research Innitiative](https://www.sfu.ca/ceri.html).
+:::
+::::
+
+
+## 
+
+***How can we support each other?***
+
+\newline
+
+:::: {style="font-size: 200%; text-align: center"}
+::: {layout="[[1], [1], [-1]]"}
+Invite us over for more conversations like this!
+:::
+::::
+
+::: notes
+:::
+
+## Join us!
+
+-   Drop us a line at [open_sci\@sfu.ca](mailto:open_sci@sfu.ca)!
+-   [Sign up to our newsletter](https://secure.campaigner.com/CSB/Public/Form.aspx?fid=1882702&ac=gifk)!
+-   Re-use, remix and share the [SFU Open Scholarship principles](https://www.sfu.ca/main/research/performance-excellence/open-science/open-science-principles.html)!
+
+## Thank you!
+
+These slides are accessible here:
+
+<!---add QR code to access the slides o Zenodo--->

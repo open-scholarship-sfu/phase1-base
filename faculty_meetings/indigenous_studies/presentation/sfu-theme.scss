@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400;600&family=Crimson+Pro:wght@400;500&display=swap');
+:root {
+  --font-heading: 'Barlow Semi Condensed', sans-serif;
+  --font-body: 'Crimson Pro', serif;
+}
+
+/* ===== SFU Colour Palette ===== */
+:root {
+  --sfu-red-light: #CC0633;
+  --sfu-red-dark:  #A6192E;
+  --sfu-grey-dark: #54585A;
+  --sfu-black:     #000000;
+  --sfu-white:     #FFFFFF;
+}
+
+
+/* ===== Base ===== */
+.reveal {
+  background-color: var(--sfu-white);
+  color: var(--sfu-black);
+  font-family: var(--font-body);
+}
+/* ===== Headings ===== */
+.reveal h1, .reveal h2, .reveal h3, .reveal h4 {
+  color: var(--sfu-red-dark);
+  font-family: var(--font-heading);
+  font-weight: 600;
+}
+/* ===== Paragraphs ===== */
+.reveal p, .reveal li {
+  font-family: var(--font-body);
+  color: var(--sfu-black);
+}
+/* ===== Title Slide Variant ===== */
+.slide-title-bg {
+  background-color: var(--sfu-red-dark) !important;
+  color: var(--sfu-white);
+}
+.slide-title-bg h1, .slide-title-bg h2 {
+  color: var(--sfu-white);
+}
+/* ===== Logo Placement ===== */
+.sfu-logo {
+  width: 120px;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  opacity: 0.9;
+}
+
+/* ===== Hyperlinks ===== */
+.reveal a {
+  color: var(--sfu-red-dark);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+.reveal a:hover,
+.reveal a:focus {
+  color: var(--sfu-red-light);
+}
+.reveal a:visited {
+  color: var(--sfu-red-dark);
+}
