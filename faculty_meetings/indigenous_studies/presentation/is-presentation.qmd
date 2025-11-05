@@ -84,20 +84,35 @@ Open scholarship is part of a responsible research practice, and it can be part 
 ## Open scholarship and funding agencies
 
 ::: {layout="[[-1], [1], [-1]]"}
-[**↑**]{style="color:darkgreen"} Canadian federal funding agencies [**increasing**]{style="color:darkgreen"} focus on OA for publication and datasets  
-[**↓**]{style="color:darkred"} [**Decreasing**]{style="color:darkred"} global support for open access policies
+Canadian federal funding agencies are [**decreasing**]{style="color:darkred"} their focus on Gold OA for publication and datasets.
 :::
 
----
+::: notes
+Preprints and independent deposits are being respected.
+More flexibility to demonstrate open practices.
+:::
+
+
 
 ## Open Scholarship at SFU
 
+::: {layout="[[-1], [1], [-1]]"}
+Open Scholarship principles are explicit in the [**Research Strategic Plan**]{style="color:darkred"} and [**Academic Plans**]{style="color:darkred"} for the next few years.
+:::
 
----
+
 ## Open Scholarship at INDG
 
+::: {.columns}
+::: {.column}
+![](images/os_disc.png){fig-align="center"}
+:::
+::: {.column}
+![](images/FASS_AP.png){width=80%}
+:::
+::: 
+<!-- end columns -->
 
----
 
 ## How can we support each other?
 
@@ -108,6 +123,24 @@ Open scholarship is part of a responsible research practice, and it can be part 
 The Turing Way Community, & Scriberia. (2023). Illustrations from The Turing Way: Shared under CC-BY 4.0 for reuse. Zenodo. <https://doi.org/10.5281/zenodo.7587336>
 :::
 ::::
+
+# 
+
+:::: {style="font-size: 150%; text-align: center"}
+The Open Scholarship Framework aims to **connect** and **decentralize** open scholarship initiatives accross Faculties, while nurturing a community of practice that leads SFU in becoming an **open university**.
+::::
+
+## SFU Open Science and Open Scholarship Principles
+
+
+* [**People**]{style="color:darkred"} front and center
+* Respect and acknowledge [**nuance**]{style="color:darkred"}
+* [**Connect**]{style="color:darkred"} and [**decentralize**]{style="color:darkred"}
+* Institutional [**support**]{style="color:darkred"}
+
+::: footnotes
+https://www.sfu.ca/research/performance-excellence/open-science/open-science-principles.html
+:::
 
 ## 
 
@@ -143,22 +176,22 @@ Training and technical support
 
 
 
-## 
+# 
 
 ***How can we support each other?***
 
 :::: {style="font-size: 190%; text-align: center"}
-::: {layout="[[1], [1], [-1]]"}
+
 Let us connect you with [Knowledge Mobilization](https://www.sfu.ca/research/knowledge-mobilization.html), the [Equity Office](https://www.sfu.ca/edi.html), [Knowledge Link](https://www.sfu.ca/research/knowledge-link.html) and the [Community-Engaged Research Innitiative](https://www.sfu.ca/ceri.html).
-:::
+
 ::::
 
 
-## 
+# 
 
 ***How can we support each other?***
 
-\newline
+
 
 :::: {style="font-size: 200%; text-align: center"}
 ::: {layout="[[1], [1], [-1]]"}
@@ -171,12 +204,22 @@ Invite us over for more conversations like this!
 
 ## Join us!
 
--   Drop us a line at [open_sci\@sfu.ca](mailto:open_sci@sfu.ca)!
--   [Sign up to our newsletter](https://secure.campaigner.com/CSB/Public/Form.aspx?fid=1882702&ac=gifk)!
--   Re-use, remix and share the [SFU Open Scholarship principles](https://www.sfu.ca/main/research/performance-excellence/open-science/open-science-principles.html)!
+-   Contact us at [open_sci@sfu.ca](mailto:open_sci@sfu.ca)
+-   [Sign up to our newsletter](https://secure.campaigner.com/CSB/Public/Form.aspx?fid=1882702&ac=gifk)
+-   Re-use, remix and share the [SFU Open Scholarship principles](https://www.sfu.ca/main/research/performance-excellence/open-science/open-science-principles.html)
 
 ## Thank you!
 
 These slides are accessible here:
 
 <!---add QR code to access the slides o Zenodo--->
+
+<!---Questions for Faculty members
+* Are there any reports on publication practices in this Faculty? We'd love to know where your community is publishing and how.
+
+* What are the main barriers that you perceive in adopting open scholarship practices?
+
+* What support looks like for you in the process of becoming a more open Faculty?
+
+
+--->

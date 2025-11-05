@@ -10,7 +10,7 @@
   --sfu-red-dark:  #A6192E;
   --sfu-grey-dark: #54585A;
   --sfu-black:     #000000;
-  --sfu-white:     #FFFFFF;
+  --sfu-white:     #f0ededff;
 }
 
 
@@ -61,3 +61,15 @@
 .reveal a:visited {
   color: var(--sfu-red-dark);
 }
+
+/* ===== Footnotes ===== */
+.footnotes,
+.footnotes p,
+.footnotes li,
+.footnotes ol {
+  color: var(--sfu-grey-dark) !important;
+  font-size: 0.7em;
+  font-style: italic;
+  align-items: flex-end;
+}
+
