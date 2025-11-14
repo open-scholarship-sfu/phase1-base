@@ -69,6 +69,19 @@ author:
 :::
 ::::
 
+# The open movement in scholarship practices
+
+## SFU Open Science and Open Scholarship Principles
+
+* [**People**]{style="color:darkred"} front and center
+* Respect and acknowledge [**nuance**]{style="color:darkred"}
+* [**Connect**]{style="color:darkred"} and [**decentralize**]{style="color:darkred"}
+* Institutional [**support**]{style="color:darkred"}
+
+::: footnotes
+https://www.sfu.ca/research/performance-excellence/open-science/open-science-principles.html
+:::
+
 ## The open movement in scholarship practices
 
 ![](images/open_responsibe_science.png){fig-align="center"}
@@ -76,6 +89,8 @@ author:
 ::: {style="text-align: center"}
 ***As open as possible, as closed as necessary.***
 :::
+
+<!---Mention OCAP and CARE principles--->
 
 ::: notes
 Open scholarship is part of a responsible research practice, and it can be part of unresponsible academic conduct too. We don't believe in automatic openness - instead, we trust our community to make educated decisions about how much should be disclosed, and when. Some things shouldn’t be automatically shared, e.g. conservation data, medical records, indigenous data
@@ -87,31 +102,13 @@ Open scholarship is part of a responsible research practice, and it can be part 
 Canadian federal funding agencies are [**decreasing**]{style="color:darkred"} their focus on Gold OA for publication and datasets.
 :::
 
+<!---add definition of Gold OA and other terms; add numbers for money being saved in research projects--->
+
 ::: notes
 Preprints and independent deposits are being respected.
 More flexibility to demonstrate open practices.
 :::
 
-
-
-## Open Scholarship at SFU
-
-::: {layout="[[-1], [1], [-1]]"}
-Open Scholarship principles are explicit in the [**Research Strategic Plan**]{style="color:darkred"} and [**Academic Plans**]{style="color:darkred"} for the next few years.
-:::
-
-
-## Open Scholarship at INDG
-
-::: {.columns}
-::: {.column}
-![](images/os_disc.png){fig-align="center"}
-:::
-::: {.column}
-![](images/FASS_AP.png){width=80%}
-:::
-::: 
-<!-- end columns -->
 
 
 ## How can we support each other?
@@ -127,20 +124,10 @@ The Turing Way Community, & Scriberia. (2023). Illustrations from The Turing Way
 # 
 
 :::: {style="font-size: 150%; text-align: center"}
-The Open Scholarship Framework aims to **connect** and **decentralize** open scholarship initiatives accross Faculties, while nurturing a community of practice that leads SFU in becoming an **open university**.
+The Open Scholarship Framework aims to **connect** and **decentralize** open scholarship initiatives accross Faculties, while nurturing a community of practice.
 ::::
 
-## SFU Open Science and Open Scholarship Principles
 
-
-* [**People**]{style="color:darkred"} front and center
-* Respect and acknowledge [**nuance**]{style="color:darkred"}
-* [**Connect**]{style="color:darkred"} and [**decentralize**]{style="color:darkred"}
-* Institutional [**support**]{style="color:darkred"}
-
-::: footnotes
-https://www.sfu.ca/research/performance-excellence/open-science/open-science-principles.html
-:::
 
 ## 
 
@@ -200,11 +187,12 @@ Invite us over for more conversations like this!
 ::::
 
 ::: notes
+We would love to be part of your regular activities, and have conversations about open educational resources, data sharing, open access publications, etc. We'd also love to hear your thoughts about our open scholarship principles and how we can improve them.
 :::
 
 ## Join us!
 
--   Contact us at [open_sci@sfu.ca](mailto:open_sci@sfu.ca)
+-   Contact us at [open_sci@sfu.ca](mailto:open_sci@sfu.ca), [gracielle_higino@sfu.ca](mailto:gracielle_higino@sfu.ca) and [kelly_shen@sfu.ca](mailto:gracielle_higino@sfu.ca)
 -   [Sign up to our newsletter](https://secure.campaigner.com/CSB/Public/Form.aspx?fid=1882702&ac=gifk)
 -   Re-use, remix and share the [SFU Open Scholarship principles](https://www.sfu.ca/main/research/performance-excellence/open-science/open-science-principles.html)
 
