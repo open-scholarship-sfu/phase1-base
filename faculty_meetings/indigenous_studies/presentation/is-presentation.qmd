@@ -208,8 +208,10 @@ This is an area in development with heated discussions ongoing. There are no pol
 
 
 :::: {style="font-size: 150%; text-align: center"}
-How can we engage your community to take advantage of Open Scholarship?​  
-​ 
+How can we engage your community to take advantage of Open Scholarship?​   
+
+---
+
 How can we support your community to achieve academic excellence?​
 ::::
 
