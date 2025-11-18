@@ -1,35 +1,40 @@
 ---
 title: "Open Scholarship at SFU"
+license: "CC BY"
 format:
   revealjs:
     theme: simple
+    logo: images/SFU_logo.png
     css:
       - sfu-theme.scss
-    slide-number: true
-    transition: fade
+    slide-number: c
+    transition: none
 fontfamily: "Crimson Pro"
 author:
-  name: Gracielle Higino, PhD (she/her)
-  affiliation: 
-    name: Open Science Community Manager, INN    
+  - name: Gracielle Higino
+    affiliation: Open Scholarship Initiative Community Manager
+  - name: Kelly Shen
+    affiliation: Director of Operations at the Institute for Neuroscience and Neurotechnology and leader of the Open Scholarship Initiative
+  - name: Randy McIntosh
+    affiliation: Director, INN
 ---
 
-# Who am I? What is the Open Scholarship Initiative? {.slide-title-bg}
+# What is the Open Scholarship Initiative? {.slide-title-bg}
 
 ::: notes
--   I'm the open science community manager for the open scholarship framework initiative
 -   The framework will represent SFU’s commitment to OS and define the pathways towards SFU becoming an “Open Scholarship University.”
 -   These principles are guidelines by which we want to practice scholarship as a community.
 :::
 
-## Down with the Ivory Tower
+## SFU Open Science and Open Scholarship Principles
 
-::: {layout="[[-1], [1], [-1]]"}
-> "\[...\] ~~science~~ *academia* and everyday life cannot and should not be separated."
-:::
+* [**People**]{style="color:darkred"} front and center
+* Respect and acknowledge [**nuance**]{style="color:darkred"}
+* [**Connect**]{style="color:darkred"} and [**decentralize**]{style="color:darkred"}
+* Institutional [**support**]{style="color:darkred"}
 
-::: {style="text-align: right"}
-*Rosalind Franklin*
+::: footnotes
+https://www.sfu.ca/research/performance-excellence/open-science/open-science-principles.html
 :::
 
 ::: notes
@@ -69,19 +74,6 @@ author:
 :::
 ::::
 
-# The open movement in scholarship practices
-
-## SFU Open Science and Open Scholarship Principles
-
-* [**People**]{style="color:darkred"} front and center
-* Respect and acknowledge [**nuance**]{style="color:darkred"}
-* [**Connect**]{style="color:darkred"} and [**decentralize**]{style="color:darkred"}
-* Institutional [**support**]{style="color:darkred"}
-
-::: footnotes
-https://www.sfu.ca/research/performance-excellence/open-science/open-science-principles.html
-:::
-
 ## The open movement in scholarship practices
 
 ![](images/open_responsibe_science.png){fig-align="center"}
@@ -90,7 +82,6 @@ https://www.sfu.ca/research/performance-excellence/open-science/open-science-pri
 ***As open as possible, as closed as necessary.***
 :::
 
-<!---Mention OCAP and CARE principles--->
 
 ::: notes
 Open scholarship is part of a responsible research practice, and it can be part of unresponsible academic conduct too. We don't believe in automatic openness - instead, we trust our community to make educated decisions about how much should be disclosed, and when. Some things shouldn’t be automatically shared, e.g. conservation data, medical records, indigenous data
@@ -98,22 +89,30 @@ Open scholarship is part of a responsible research practice, and it can be part 
 
 ## Open scholarship and funding agencies
 
-::: {layout="[[-1], [1], [-1]]"}
-Canadian federal funding agencies are [**decreasing**]{style="color:darkred"} their focus on Gold OA for publication and datasets.
-:::
+* Canadian federal funding agencies are [**decreasing**]{style="color:darkred"} their focus on pay-for-publishing OA publications and datasets.^[[Draft, Revised Tri-Agency Open Access Policy on Publications, 2025↗︎](https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/open-access/draft-revised-tri-agency-open-access-policy-publications)]
 
-<!---add definition of Gold OA and other terms; add numbers for money being saved in research projects--->
+* FAIR data can [**save up to 9%**]{style="color:darkred"} of a project’s costs ^[[Europe, SPARC. 2019. “Using Open and FAIR Data to Increase Research Efficiency.”↗︎](https://sparceurope.org/wp-content/uploads/dlm_uploads/2019/04/SPARC-Europe_Brief_ODEfficiency.pdf){target="_blank"}]
+
+* “The annual [**cost**]{style="color:darkred"} of not making data FAIR in Europe is a minimum of [**€10.2bn per year**]{style="color:darkred"}.” ^2^
 
 ::: notes
 Preprints and independent deposits are being respected.
 More flexibility to demonstrate open practices.
 :::
 
+## Ways to open
 
+![](images/os_disc.png){fig-align="center"}
+
+
+::: footer
+Pillars of Open Science, UNESCO (2021)
+:::
 
 ## How can we support each other?
 
 ![](images/maintenance-open-source.jpg){fig-align="center"}
+
 
 :::: footnote
 ::: {style="font-size: 50%;"}
@@ -124,7 +123,7 @@ The Turing Way Community, & Scriberia. (2023). Illustrations from The Turing Way
 # 
 
 :::: {style="font-size: 150%; text-align: center"}
-The Open Scholarship Framework aims to **connect** and **decentralize** open scholarship initiatives accross Faculties, while nurturing a community of practice.
+The Open Scholarship Initiative aims to **empower**, **connect** and **decentralize** open scholarship practices and services accross Faculties.
 ::::
 
 
@@ -139,7 +138,7 @@ The Open Scholarship Framework aims to **connect** and **decentralize** open sch
 :::
 ::::
 
-::: {.callout-tip appearance="simple"}
+::: {.callout-important appearance="minimal"}
 *Use an affiliated university email address when submitting your paper.*
 :::
 
@@ -157,33 +156,54 @@ Training and technical support
 :::
 ::::
 
-::: {.callout-tip appearance="simple"}
+::: {.callout-important appearance="minimal"}
 *There are many training opportunities at SFU, and the Library has specialized people ready to take on some of your workload with data sharing, data management, open access publishing, and more.*
 :::
 
+::: {.notes}
+We can work with you to identify training that should be developed especifically for your community.
+:::
 
-
-# 
+---
 
 ***How can we support each other?***
 
 :::: {style="font-size: 190%; text-align: center"}
+::: {layout="[[-1], [1], [-1]]"}
 
-Let us connect you with [Knowledge Mobilization](https://www.sfu.ca/research/knowledge-mobilization.html), the [Equity Office](https://www.sfu.ca/edi.html), [Knowledge Link](https://www.sfu.ca/research/knowledge-link.html) and the [Community-Engaged Research Innitiative](https://www.sfu.ca/ceri.html).
+Let us connect you with services acrross SFU that can support your Open Scholarship journey.
 
+:::
 ::::
 
-
-# 
+---
 
 ***How can we support each other?***
 
 
 
-:::: {style="font-size: 200%; text-align: center"}
-::: {layout="[[1], [1], [-1]]"}
-Invite us over for more conversations like this!
+:::: {style="font-size: 190%; text-align: center"}
+::: {layout="[[-1], [1], [-1]]"}
+
+Impact of GenAI on Open Scholarship:  
+It's on our radar!
+ 
+
 :::
+::::
+
+::: notes
+We want to hear from you, and we will do our best to keep you informed on the most recent developments in this area.
+This is an area in development with heated discussions ongoing. There are no policies set in stone, but we commit to gather as much information as possible, and to convey them with responsibility to our community.
+::: 
+
+#
+
+
+:::: {style="font-size: 150%; text-align: center"}
+How can we engage your community to take advantage of Open Scholarship?​  
+​ 
+How can we support your community to achieve academic excellence?​
 ::::
 
 ::: notes
@@ -192,15 +212,12 @@ We would love to be part of your regular activities, and have conversations abou
 
 ## Join us!
 
--   Contact us at [open_sci@sfu.ca](mailto:open_sci@sfu.ca), [gracielle_higino@sfu.ca](mailto:gracielle_higino@sfu.ca) and [kelly_shen@sfu.ca](mailto:gracielle_higino@sfu.ca)
--   [Sign up to our newsletter](https://secure.campaigner.com/CSB/Public/Form.aspx?fid=1882702&ac=gifk)
--   Re-use, remix and share the [SFU Open Scholarship principles](https://www.sfu.ca/main/research/performance-excellence/open-science/open-science-principles.html)
+* Contact us at [open_sci@sfu.ca](mailto:open_sci@sfu.ca), [gracielle_higino@sfu.ca](mailto:gracielle_higino@sfu.ca) and [kelly_shen@sfu.ca](mailto:gracielle_higino@sfu.ca)
 
-## Thank you!
+* Sign up to our [newsletter](https://secure.campaigner.com/CSB/Public/Form.aspx?fid=1882702&ac=gifk)
 
-These slides are accessible here:
+* Re-use, remix and share the [SFU Open Scholarship principles](https://www.sfu.ca/main/research/performance-excellence/open-science/open-science-principles.html)
 
-<!---add QR code to access the slides o Zenodo--->
 
 <!---Questions for Faculty members
 * Are there any reports on publication practices in this Faculty? We'd love to know where your community is publishing and how.

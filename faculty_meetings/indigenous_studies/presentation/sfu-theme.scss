@@ -31,6 +31,11 @@
   font-family: var(--font-body);
   color: var(--sfu-black);
 }
+
+.reveal li {
+  color: var(--sfu-red-dark);
+}
+
 /* ===== Title Slide Variant ===== */
 .slide-title-bg {
   background-color: var(--sfu-red-dark) !important;
@@ -39,13 +44,72 @@
 .slide-title-bg h1, .slide-title-bg h2 {
   color: var(--sfu-white);
 }
+
+.reveal .slide-number > a[href*='title-slide'] {
+  display: none;
+}
+
+.reveal .slide-logo > a[href*='title-slide'] {
+  display: none;
+}
+
+.quarto-title-authors {
+  display: block !important;
+  column-count: 1 !important;
+  flex-direction: column !important;
+  align-items: flex-start !important;
+  text-align: center !important;
+}
+
+/* Each author on its own line */
+.quarto-title-author {
+  display: block !important;
+  width: 100% !important;
+  margin: 0.4rem 0 !important;
+}
+
+/* Force name + affiliation to stack vertically */
+.quarto-title-author-name,
+.quarto-title-author-affiliation {
+  display: block !important;
+}
+
+
+/* ===== PROGRESS BAR ==== */
+.reveal .progress {
+  background: rgba(0, 0, 0, 0.2);
+  color: var(--sfu-red-dark);
+  height: 1%;
+}
+
+.reveal .slide-menu-button .fa-bars::before {
+background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgba(166,25,46)" class="bi bi-list" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/></svg>') !important;
+}
+
+
 /* ===== Logo Placement ===== */
-.sfu-logo {
-  width: 120px;
-  position: absolute;
-  top: 20px;
-  right: 20px;
-  opacity: 0.9;
+.slide-logo {
+  display: block;
+  position: fixed !important;
+  top: 0 !important;
+  right: 10px !important;
+  max-height: 15% !important;
+  height: 4% !important;
+  width: auto !important;
+  color: $body-color !important;
+  z-index: unset !important;
+}
+
+.slide-number,
+.reveal.has-logo .slide-number {
+  bottom: 10px !important;
+  right: 10px !important;
+  top: unset !important;
+  color: $body-color !important;
+
+  a {
+    text-decoration: none !important;
+  }
 }
 
 /* ===== Hyperlinks ===== */
