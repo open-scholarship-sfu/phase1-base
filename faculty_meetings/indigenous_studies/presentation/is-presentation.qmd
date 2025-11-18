@@ -28,10 +28,14 @@ author:
 
 ## SFU Open Science and Open Scholarship Principles
 
-* [**People**]{style="color:darkred"} front and center
-* Respect and acknowledge [**nuance**]{style="color:darkred"}
-* [**Connect**]{style="color:darkred"} and [**decentralize**]{style="color:darkred"}
-* Institutional [**support**]{style="color:darkred"}
+* [**People**]{style="color:darkred"} front and center  
+
+* Respect and acknowledge [**nuance**]{style="color:darkred"}  
+
+* [**Connect**]{style="color:darkred"} and [**decentralize**]{style="color:darkred"}  
+
+* Institutional [**support**]{style="color:darkred"}  
+
 
 ::: footnotes
 https://www.sfu.ca/research/performance-excellence/open-science/open-science-principles.html
@@ -62,11 +66,14 @@ https://www.sfu.ca/research/performance-excellence/open-science/open-science-pri
 
 *Responsible researchers...*
 
+* Strive for excellence and *take responsibility*. 
 
--   Strive for excellence and *take responsibility*\
--   *Respect* the law, research ethics, and professional standards\
--   *Support* a culture of *transparency*, *openness*, and honesty towards other researchers and the *public*\
--   *Maximise public benefit* and avoid resource waste
+* *Respect* the law, research ethics, and professional standards.  
+
+* *Support* a culture of *transparency*, *openness*, and honesty towards other researchers and the *public*.  
+
+* *Maximise public benefit* and avoid resource waste.  
+
 
 :::: footnote
 ::: {style="font-size: 50%;"}
