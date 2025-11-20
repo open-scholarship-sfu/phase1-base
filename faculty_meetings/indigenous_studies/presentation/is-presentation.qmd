@@ -183,21 +183,16 @@ Let us connect you with services acrross SFU that can support your Open Scholars
 :::
 ::::
 
----
 
-***How can we support each other?***
+# Impact of GenAI on Open Scholarship:  
 
+**It's on our radar!**
 
+* AI policy advisors are part of our committees
 
-:::: {style="font-size: 190%; text-align: center"}
-::: {layout="[[-1], [1], [-1]]"}
+* We're following closely the development and implementation of Creative Commons' [Signals](https://creativecommons.org/ai-and-the-commons) framework
 
-Impact of GenAI on Open Scholarship:  
-It's on our radar!
- 
-
-:::
-::::
+* We commit to keep our community informed about any progress in this area
 
 ::: notes
 We want to hear from you, and we will do our best to keep you informed on the most recent developments in this area.
