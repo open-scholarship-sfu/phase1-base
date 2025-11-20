@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400;600&family=Crimson+Pro:wght@400;500&display=swap');
+
 :root {
   --font-heading: 'Barlow Semi Condensed', sans-serif;
   --font-body: 'Crimson Pro', serif;
@@ -13,19 +14,20 @@
   --sfu-white:     #f0ededff;
 }
 
-
 /* ===== Base ===== */
 .reveal {
   background-color: var(--sfu-white);
   color: var(--sfu-black);
   font-family: var(--font-body);
 }
+
 /* ===== Headings ===== */
 .reveal h1, .reveal h2, .reveal h3, .reveal h4 {
   color: var(--sfu-red-dark);
   font-family: var(--font-heading);
   font-weight: 600;
 }
+
 /* ===== Paragraphs ===== */
 .reveal p, .reveal li {
   font-family: var(--font-body);
@@ -74,7 +76,6 @@
   display: block !important;
 }
 
-
 /* ===== PROGRESS BAR ==== */
 .reveal .progress {
   background: rgba(0, 0, 0, 0.2);
@@ -83,9 +84,8 @@
 }
 
 .reveal .slide-menu-button .fa-bars::before {
-background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgba(166,25,46)" class="bi bi-list" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/></svg>') !important;
+  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgba(166,25,46)" class="bi bi-list" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/></svg>') !important;
 }
-
 
 /* ===== Logo Placement ===== */
 .slide-logo {
@@ -96,7 +96,7 @@ background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg
   max-height: 15% !important;
   height: 4% !important;
   width: auto !important;
-  color: $body-color !important;
+  color: var(--sfu-black) !important;
   z-index: unset !important;
 }
 
@@ -105,11 +105,12 @@ background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg
   bottom: 10px !important;
   right: 10px !important;
   top: unset !important;
-  color: $body-color !important;
+  color: var(--sfu-black) !important;
+}
 
-  a {
-    text-decoration: none !important;
-  }
+.slide-number a,
+.reveal.has-logo .slide-number a {
+  text-decoration: none !important;
 }
 
 /* ===== Hyperlinks ===== */
@@ -118,10 +119,12 @@ background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg
   text-decoration: none;
   transition: color 0.2s ease;
 }
+
 .reveal a:hover,
 .reveal a:focus {
   color: var(--sfu-red-light);
 }
+
 .reveal a:visited {
   color: var(--sfu-red-dark);
 }
@@ -136,4 +139,3 @@ background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg
   font-style: italic;
   align-items: flex-end;
 }
-

@@ -6,9 +6,11 @@ format:
     theme: simple
     logo: images/SFU_logo.png
     css:
-      - sfu-theme.scss
+      - sfu-theme.css
     slide-number: c
     transition: none
+execute:
+  freeze: auto
 fontfamily: "Crimson Pro"
 author:
   - name: Gracielle Higino
