@@ -180,7 +180,7 @@ We can work with you to identify training that should be developed especifically
 :::: {style="font-size: 190%; text-align: center"}
 ::: {layout="[[-1], [1], [-1]]"}
 
-Let us connect you with services acrross SFU that can support your Open Scholarship journey.
+Let us connect you with services across SFU that can support your Open Scholarship journey.
 
 :::
 ::::
