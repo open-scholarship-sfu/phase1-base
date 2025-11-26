@@ -21,33 +21,6 @@ author:
     affiliation: Director, INN
 ---
 
-# What is the Open Scholarship Initiative? {.slide-title-bg}
-
-::: notes
--   The framework will represent SFU’s commitment to OS and define the pathways towards SFU becoming an “Open Scholarship University.”
--   These principles are guidelines by which we want to practice scholarship as a community.
-:::
-
-## SFU Open Science and Open Scholarship Principles
-
-* [**People**]{style="color:darkred"} front and center  
-
-* Respect and acknowledge [**nuance**]{style="color:darkred"}  
-
-* [**Connect**]{style="color:darkred"} and [**decentralize**]{style="color:darkred"}  
-
-* Institutional [**support**]{style="color:darkred"}  
-
-
-::: footnotes
-https://www.sfu.ca/research/performance-excellence/open-science/open-science-principles.html
-:::
-
-::: notes
--   Nothing we do within a university is disconnected from the world outside of it. There are social, political and environmental contexts to everything we do.
--   We believe in an academic environment that is aware of its surroundings, and is open to dialogue with the different aspects of our society.
-:::
-
 ## The open movement
 
 ::: {layout="[[-1], [1], [-1]]"}
@@ -64,24 +37,6 @@ https://www.sfu.ca/research/performance-excellence/open-science/open-science-pri
 :::
 ::::
 
-## The open movement in scholarship practices
-
-*Responsible researchers...*
-
-* Strive for excellence and *take responsibility*. 
-
-* *Respect* the law, research ethics, and professional standards.  
-
-* *Support* a culture of *transparency*, *openness*, and honesty towards other researchers and the *public*.  
-
-* *Maximise public benefit* and avoid resource waste.  
-
-
-:::: footnote
-::: {style="font-size: 50%;"}
-[Open Seeds training, 2025](https://docs.google.com/presentation/d/1eKRgozsGmJvjPELyP4KMgrgHchp7o58YowC5RkgLNd4/edit?slide=id.g209cf4a938f_0_0#slide=id.g209cf4a938f_0_0)
-:::
-::::
 
 ## The open movement in scholarship practices
 
@@ -118,24 +73,98 @@ More flexibility to demonstrate open practices.
 Pillars of Open Science, UNESCO (2021)
 :::
 
-## How can we support each other?
 
-![](images/maintenance-open-source.jpg){fig-align="center"}
+# What is the Open Scholarship Initiative? {.slide-title-bg}
 
-
-:::: footnote
-::: {style="font-size: 50%;"}
-The Turing Way Community, & Scriberia. (2023). Illustrations from The Turing Way: Shared under CC-BY 4.0 for reuse. Zenodo. <https://doi.org/10.5281/zenodo.7587336>
+::: notes
+-   The framework will represent SFU’s commitment to OS.
+-   These principles are guidelines by which we want to practice scholarship as a community.
 :::
-::::
 
-# 
+## SFU Open Science and Open Scholarship Principles
 
-:::: {style="font-size: 150%; text-align: center"}
-The Open Scholarship Initiative aims to **empower**, **connect** and **decentralize** open scholarship practices and services accross Faculties.
-::::
+* [**People**]{style="color:darkred"} front and center  
+
+* Respect and acknowledge [**nuance**]{style="color:darkred"}  
+
+* [**Connect**]{style="color:darkred"} and [**decentralize**]{style="color:darkred"}  
+
+* Institutional [**support**]{style="color:darkred"}  
 
 
+::: footnotes
+https://www.sfu.ca/research/performance-excellence/open-science/open-science-principles.html
+:::
+
+::: notes
+-   Nothing we do within a university is disconnected from the world outside of it. There are social, political and environmental contexts to everything we do.
+-   We believe in an academic environment that is aware of its surroundings, and is open to dialogue with the different aspects of our society.
+:::
+
+## SFU Open Science and Open Scholarship Principles
+
+**Principle 1: Transformation through equitable practice of open scholarship**
+
+> To ensure that all persons with an interest in research, regardless of training, origin or circumstance,
+have equal access and opportunities to contribute to and benefit from scholarly knowledge [...] This includes engagement with, and knowledge from, non-academic actors to shape both OS practices and the
+research lifecycle.
+
+::: footnotes
+https://www.sfu.ca/research/performance-excellence/open-science/open-science-principles.html
+:::
+
+## SFU Open Science and Open Scholarship Principles
+
+**Principle 2: Open sharing of scholarly knowledge**
+
+> [...] opening up research workflows and evaluation processes should be considered. [...] scholarly articles by SFU authors should be deposited in SFU’s Summit repository. Where resources are, in their original form, not shareable, reasonable efforts will be made to share them (e.g., through anonymization). When resources cannot be made available, the reasons for the restriction should be explained.
+
+::: footnotes
+https://www.sfu.ca/research/performance-excellence/open-science/open-science-principles.html
+:::
+
+## SFU Open Science and Open Scholarship Principles
+
+**Principle 3: Respecting participant autonomy**
+
+> SFU recognizes participants’ rights to decline participation in research and activities under the SFU OS
+Framework.
+
+::: footnotes
+https://www.sfu.ca/research/performance-excellence/open-science/open-science-principles.html
+:::
+
+## SFU Open Science and Open Scholarship Principles
+
+**Principle 4: Respecting the dignity and privacy of research participants**
+
+> Researchers have the responsibility to do no harm and must practice OS with care. [...] Participants will be provided with enough information to make fully informed decisions about OS participation. [...] All data usage agreements and ownership rights, including all forms of collective ownership, will be respected. 
+
+::: footnotes
+https://www.sfu.ca/research/performance-excellence/open-science/open-science-principles.html
+:::
+
+## SFU Open Science and Open Scholarship Principles
+
+**Principle 5: Ensuring success through institutional commitment and support**
+
+> SFU is committed to the success of the Open Scholarship Framework by providing the infrastructure
+necessary to achieve its aims. These include financial support, materials, tools, equipment, incentives,
+and training for OS activities.
+
+::: footnotes
+https://www.sfu.ca/research/performance-excellence/open-science/open-science-principles.html
+:::
+
+## SFU Open Science and Open Scholarship Principles
+
+**Principle 6: Prioritizing translation with harmonized approaches to intellectual property**
+
+> While acknowledging that SFU’s inventors maintain control over their IP, SFU will implement its OS principles through the flexible use of IP tools. IP protection will be sought only when necessary and OS principles will be considered in IP negotiations to translate and disseminate knowledge ethically.
+
+::: footnotes
+https://www.sfu.ca/research/performance-excellence/open-science/open-science-principles.html
+:::
 
 ## 
 
@@ -209,7 +238,9 @@ How can we engage your community to take advantage of Open Scholarship?​
 
 ---
 
-How can we support your community to achieve academic excellence?​
+What does support in OS practices look like to you?
+
+
 ::::
 
 ::: notes
