@@ -1,0 +1,267 @@
+---
+title: "Open Scholarship at SFU"
+license: "CC BY"
+format:
+  revealjs:
+    theme: simple
+    logo: images/SFU_logo.png
+    css:
+      - sfu-theme.css
+    slide-number: c
+    transition: none
+execute:
+  freeze: auto
+fontfamily: "Crimson Pro"
+author:
+  - name: Gracielle Higino
+    affiliation: Open Scholarship Initiative Community Manager
+  - name: Kelly Shen
+    affiliation: Director of Operations at the Institute for Neuroscience and Neurotechnology and leader of the Open Scholarship Initiative
+  - name: Randy McIntosh
+    affiliation: Director, INN
+---
+
+## The open movement
+
+::: {layout="[[-1], [1], [-1]]"}
+1.  Share decision making
+
+2.  Share content
+
+3.  Invite participation
+:::
+
+:::: footnote
+::: {style="font-size: 50%;"}
+[Mozilla and Working Open](https://www.youtube.com/watch?v=quKdaqlR_9w)
+:::
+::::
+
+
+## The open movement in scholarship practices
+
+![](images/open_responsibe_science.png){fig-align="center"}
+
+::: {style="text-align: center"}
+***As open as possible, as closed as necessary.***
+:::
+
+
+::: notes
+Open scholarship is part of a responsible research practice, and it can be part of unresponsible academic conduct too. We don't believe in automatic openness - instead, we trust our community to make educated decisions about how much should be disclosed, and when. Some things shouldn’t be automatically shared, e.g. conservation data, medical records, indigenous data
+:::
+
+## Open scholarship and funding agencies
+
+* Canadian federal funding agencies are [**decreasing**]{style="color:darkred"} their focus on pay-for-publishing OA publications and datasets.^[[Draft, Revised Tri-Agency Open Access Policy on Publications, 2025↗︎](https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/open-access/draft-revised-tri-agency-open-access-policy-publications)]
+
+* FAIR data can [**save up to 9%**]{style="color:darkred"} of a project’s costs ^[[Europe, SPARC. 2019. “Using Open and FAIR Data to Increase Research Efficiency.”↗︎](https://sparceurope.org/wp-content/uploads/dlm_uploads/2019/04/SPARC-Europe_Brief_ODEfficiency.pdf){target="_blank"}]
+
+* “The annual [**cost**]{style="color:darkred"} of not making data FAIR in Europe is a minimum of [**€10.2bn per year**]{style="color:darkred"}.” ^2^
+
+::: notes
+Preprints and independent deposits are being respected.
+More flexibility to demonstrate open practices.
+:::
+
+## Ways to open
+
+![](images/os_disc.png){fig-align="center"}
+
+
+::: footer
+Pillars of Open Science, UNESCO (2021)
+:::
+
+
+# What is the Open Scholarship Initiative? {.slide-title-bg}
+
+::: notes
+-   The framework will represent SFU’s commitment to OS.
+-   These principles are guidelines by which we want to practice scholarship as a community.
+:::
+
+## SFU Open Science and Open Scholarship Principles
+
+* [**People**]{style="color:darkred"} front and center  
+
+* Respect and acknowledge [**nuance**]{style="color:darkred"}  
+
+* [**Connect**]{style="color:darkred"} and [**decentralize**]{style="color:darkred"}  
+
+* Institutional [**support**]{style="color:darkred"}  
+
+
+::: footnotes
+https://www.sfu.ca/research/performance-excellence/open-science/open-science-principles.html
+:::
+
+::: notes
+-   Nothing we do within a university is disconnected from the world outside of it. There are social, political and environmental contexts to everything we do.
+-   We believe in an academic environment that is aware of its surroundings, and is open to dialogue with the different aspects of our society.
+:::
+
+## SFU Open Science and Open Scholarship Principles
+
+**Principle 1: Transformation through equitable practice of open scholarship**
+
+> To ensure that all persons with an interest in research, regardless of training, origin or circumstance,
+have equal access and opportunities to contribute to and benefit from scholarly knowledge [...] This includes engagement with, and knowledge from, non-academic actors to shape both OS practices and the
+research lifecycle.
+
+::: footnotes
+https://www.sfu.ca/research/performance-excellence/open-science/open-science-principles.html
+:::
+
+## SFU Open Science and Open Scholarship Principles
+
+**Principle 2: Open sharing of scholarly knowledge**
+
+> [...] opening up research workflows and evaluation processes should be considered. [...] scholarly articles by SFU authors should be deposited in SFU’s Summit repository. Where resources are, in their original form, not shareable, reasonable efforts will be made to share them (e.g., through anonymization). When resources cannot be made available, the reasons for the restriction should be explained.
+
+::: footnotes
+https://www.sfu.ca/research/performance-excellence/open-science/open-science-principles.html
+:::
+
+## SFU Open Science and Open Scholarship Principles
+
+**Principle 3: Respecting participant autonomy**
+
+> SFU recognizes participants’ rights to decline participation in research and activities under the SFU OS
+Framework.
+
+::: footnotes
+https://www.sfu.ca/research/performance-excellence/open-science/open-science-principles.html
+:::
+
+## SFU Open Science and Open Scholarship Principles
+
+**Principle 4: Respecting the dignity and privacy of research participants**
+
+> Researchers have the responsibility to do no harm and must practice OS with care. [...] Participants will be provided with enough information to make fully informed decisions about OS participation. [...] All data usage agreements and ownership rights, including all forms of collective ownership, will be respected. 
+
+::: footnotes
+https://www.sfu.ca/research/performance-excellence/open-science/open-science-principles.html
+:::
+
+## SFU Open Science and Open Scholarship Principles
+
+**Principle 5: Ensuring success through institutional commitment and support**
+
+> SFU is committed to the success of the Open Scholarship Framework by providing the infrastructure
+necessary to achieve its aims. These include financial support, materials, tools, equipment, incentives,
+and training for OS activities.
+
+::: footnotes
+https://www.sfu.ca/research/performance-excellence/open-science/open-science-principles.html
+:::
+
+## SFU Open Science and Open Scholarship Principles
+
+**Principle 6: Prioritizing translation with harmonized approaches to intellectual property**
+
+> While acknowledging that SFU’s inventors maintain control over their IP, SFU will implement its OS principles through the flexible use of IP tools. IP protection will be sought only when necessary and OS principles will be considered in IP negotiations to translate and disseminate knowledge ethically.
+
+::: footnotes
+https://www.sfu.ca/research/performance-excellence/open-science/open-science-principles.html
+:::
+
+## 
+
+***How can we support each other?***
+
+:::: {style="font-size: 200%; text-align: center"}
+::: {layout="[[-1], [1], [-1]]"}
+[APC discounts through the Library](https://www.lib.sfu.ca/help/publish/scholarly-publishing/open-access/publisher-discounts)
+:::
+::::
+
+::: {.callout-important appearance="minimal"}
+*Use an affiliated university email address when submitting your paper.*
+:::
+
+::: notes
+SFU Library holds institutional memberships and participates in publishing agreements with many academic publishers, some directly and as part of library consortia. These memberships provide waivers on article processing charges (APCs) or discounts for articles published by SFU authors.
+:::
+
+## 
+
+***How can we support each other?***
+
+:::: {style="font-size: 200%; text-align: center"}
+::: {layout="[[-1], [1], [-1]]"}
+Training and technical support
+:::
+::::
+
+::: {.callout-important appearance="minimal"}
+*There are many training opportunities at SFU, and the Library has specialized people ready to take on some of your workload with data sharing, data management, open access publishing, and more.*
+:::
+
+::: {.notes}
+We can work with you to identify training that should be developed especifically for your community.
+:::
+
+---
+
+***How can we support each other?***
+
+:::: {style="font-size: 190%; text-align: center"}
+::: {layout="[[-1], [1], [-1]]"}
+
+Let us connect you with services across SFU that can support your Open Scholarship journey.
+
+:::
+::::
+
+
+# Impact of GenAI on Open Scholarship:  
+
+**It's on our radar!**
+
+* AI policy advisors are part of our committees
+
+* We're following closely the development and implementation of Creative Commons' [Signals](https://creativecommons.org/ai-and-the-commons) framework
+
+* We commit to keep our community informed about any progress in this area
+
+::: notes
+We want to hear from you, and we will do our best to keep you informed on the most recent developments in this area.
+This is an area in development with heated discussions ongoing. There are no policies set in stone, but we commit to gather as much information as possible, and to convey them with responsibility to our community.
+::: 
+
+#
+
+
+:::: {style="font-size: 150%; text-align: center"}
+How can we engage your community to take advantage of Open Scholarship?​   
+
+---
+
+What does support in OS practices look like to you?
+
+
+::::
+
+::: notes
+We would love to be part of your regular activities, and have conversations about open educational resources, data sharing, open access publications, etc. We'd also love to hear your thoughts about our open scholarship principles and how we can improve them.
+:::
+
+## Join us!
+
+* Contact us at [open_sci@sfu.ca](mailto:open_sci@sfu.ca), [gracielle_higino@sfu.ca](mailto:gracielle_higino@sfu.ca), [kelly_shen@sfu.ca](mailto:kelly_shen@sfu.ca) or [randy_mcintosh@sfu.ca](mailto:randy_mcintosh@sfu.ca)
+
+* Sign up to our [newsletter](https://secure.campaigner.com/CSB/Public/Form.aspx?fid=1882702&ac=gifk)
+
+* Review the [SFU Open Scholarship principles](https://www.sfu.ca/main/research/performance-excellence/open-science/open-science-principles.html) and propose changes - this is a living document and we welcome your contributions at any time.
+
+
+<!---Questions for Faculty members
+* Are there any reports on publication practices in this Faculty? We'd love to know where your community is publishing and how.
+
+* What are the main barriers that you perceive in adopting open scholarship practices?
+
+* What support looks like for you in the process of becoming a more open Faculty?
+
+
+--->
