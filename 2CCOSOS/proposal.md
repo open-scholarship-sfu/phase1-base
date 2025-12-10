@@ -1,4 +1,7 @@
+[![hackmd-github-sync-badge](https://hackmd.io/Fm2AdocrSuykESXqWiws7Q/badge)](https://hackmd.io/Fm2AdocrSuykESXqWiws7Q)
+
 # 2nd Canadian Open Science and Open Scholarship Meeting
+
 ## SFU proposals
 
 ### Overall vision and approach for the event and how they might align with or build upon the inaugural edition
@@ -53,12 +56,28 @@ We'd also like to highlight a few points about how SFU and our initiative is str
 
 ### Available resources
 
+* SFU & INN funds totalling $10,000 (secured)
+* Dedicated staff for organizing and coordinating:
+    * Kelly Shen
+    * Gracielle Higino
+    * Elsa Qiu, INN Communications & Marketing Assistant
+
 
 ### Financial planning
 
+* Additional funding will be sought through external sources (e.g., SSHRC Connection Grant) and sponsors
 
 ### Proposed venue
 
+* SFU Vancouver Campus
+    * centrally located with great transit for local attendees (e.g., SFU Burnaby, SFU Surrey, UBC, and local industry like STEMCELL Technologies)
+    * easy to get to on skytrain from ferry (e.g., UVic attendees) and airport
+    * lots of hotel, restaurant, and cafe options within walking distance
+    * Vancouver campus Meeting & Events services is easy to work with and we've had great success working with them for INN's annual workshop/conference event
+    * option to host as hybrid meeting with onsite technical support provided by Meeting & Events services
+    * flexible venue configuration that can host up to 250 (see [Joseph and Rosalie Segal Centre A-D](https://www.sfu.ca/mecs/venues/vancouver/harbour-centre.html))
+    * the views from the venue are gorgeous! 
+    
 
 ### Anything else
 
@@ -66,5 +85,15 @@ We'd also like to highlight a few points about how SFU and our initiative is str
 ## Contributors (please add your name here if you have contributed to this document)
 
 * Gracielle Higino
-* 
-* 
+* Kelly Shen
+
+---
+
+### Notes from meeting on Dec 10
+
+#### Costs of the 1st conference
+Venue: 15000$  
+Catering: 16000$
+
+#### Action items
+- [ ] Research about venues availabilities and costs - due on Jan 09
