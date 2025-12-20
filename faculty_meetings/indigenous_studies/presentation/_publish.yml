@@ -1,0 +1,4 @@
+- source: is-presentation.qmd
+  netlify:
+    - id: 114e8d16-47ed-4d54-9707-92d820ca2eb4
+      url: https://os-indg-facultymeeting.netlify.app
